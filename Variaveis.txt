@@ -1,0 +1,17 @@
+Tipos de Variáveis 
+
+Local
+
+    --São visivéis em qualquer Local.
+    --Local nNumero := 10
+
+Private
+
+    --É visível em todo programa até ser destruída, pode ser destruida ao terminar de executar ou caso uma função
+    chame o mesmo nome, porém com outro valor.
+    --nNumero := 10
+
+Public 
+
+    --Visível em todo o programa até que uma varável private seja criada com o mesmo nome.
+    --Public nNum := 10
