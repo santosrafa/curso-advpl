@@ -1,0 +1,23 @@
+Numerico
+
+--Exemplo: 3/ 21.000 / 0.4 / 20000
+
+Logico
+
+--Exemplo: .T. / .F.
+
+Caractere
+
+--Exemplo: "D" / 'C'
+
+Data
+
+--Exemplo: Date()
+
+Array
+
+--Exemplo: {"VALOR1", "VALOR2", "VALOR3"}
+
+Bloco de Codigo
+
+--Exemplo: {||VALOR := 1, MsgAlert ("Valor é igual a "+cValToChar(VALOR))}
