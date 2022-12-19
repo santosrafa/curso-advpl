@@ -1,0 +1,29 @@
+Tipos de Funções 
+
+Functiom()
+
+    --São funções restritas ao desenvolvimento de inteligência do Protheus.
+    --Uma function pode carregar até 10 caracteres.
+
+User Function()
+
+    --Conhecidas como funções definidas pelo usuário.
+    --O Advpl adiciona sempre um U_ antes do nome da função assim deve definir o nome da funcao com apenas 8 caracteres.
+    --Exemplo U_OlaMundo
+
+Static Functiom()
+
+    --Ela é criada dentro de uma mesma função.
+    --Ela só pode ser acessada pela função que está sendo chamada
+
+    Functiom MATA0001C()
+        CriaSX1 ("MATA0001C")
+    Return    
+
+    Static Functiom CriaSX1()
+    Return
+
+Main Functiom()
+
+    --É uma função restria a inteligência protheus.
+    --Exemplo SIGAADV() é uma main function.
