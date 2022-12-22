@@ -15,7 +15,10 @@
 	"lastPrograms": [
 		{
 			"label": "U_OlaMundo"
+		},
+		{
+			"label": "U_ESTRUTUR"
 		}
 	],
-	"lastProgramExecuted": "U_OlaMundo"
+	"lastProgramExecuted": "U_ESTRUTUR"
 }
