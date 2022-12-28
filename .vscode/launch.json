@@ -21,7 +21,10 @@
 		},
 		{
 			"label": "U_AVETOR"
+		},
+		{
+			"label": "u_AVETOR2"
 		}
 	],
-	"lastProgramExecuted": "U_AVETOR"
+	"lastProgramExecuted": "u_AVETOR2"
 }
