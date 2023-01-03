@@ -24,7 +24,12 @@
 		},
 		{
 			"label": "u_AVETOR2"
+		},
+		{
+			"args": [],
+			"label": "U_bloco"
 		}
 	],
-	"lastProgramExecuted": "u_AVETOR2"
+	"lastProgramExecuted": "U_bloco",
+	"lastProgramArguments": []
 }
