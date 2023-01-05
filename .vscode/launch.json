@@ -28,8 +28,12 @@
 		{
 			"args": [],
 			"label": "U_bloco"
+		},
+		{
+			"args": [],
+			"label": "U_DOCASE"
 		}
 	],
-	"lastProgramExecuted": "U_bloco",
+	"lastProgramExecuted": "U_DOCASE",
 	"lastProgramArguments": []
 }
