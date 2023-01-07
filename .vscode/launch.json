@@ -32,8 +32,10 @@
 		{
 			"args": [],
 			"label": "U_DOCASE"
+		},
+		{
+			"label": "U_FOR"
 		}
 	],
-	"lastProgramExecuted": "U_DOCASE",
-	"lastProgramArguments": []
+	"lastProgramExecuted": "U_FOR"
 }
