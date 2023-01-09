@@ -31,4 +31,33 @@ user function MBRSA2()
     EndFilBrw(cAlias,aIndexSA2)                                 /* Finalizando o filbrowse */
 
 return
-
+/* Função BInclui - Inclusão */
+user function BInclui(cAlias,nReg,nOpc)
+    Local nOpcao := 0
+    nOpcao := AxInclui(cAlias,nReg,nOpc)
+        if nOpcap == 1
+            MsgInfo("Inclusão efetuada com sucesso!")
+        else
+            MsgAlert("Inclusão Cancelada!")
+        end if
+return
+/* Função BAltera - Alteração */
+user function BAltera(cAlias,nReg,nOpc)
+    Local nOpcao := 0
+    nOpcao := AxAltera(cAlias,nReg,nOpc)
+        if nOpcap == 1
+            MsgInfo("Alteração efetuada com sucesso!")
+        else
+            MsgAlert("Alteração Cancelada!")
+        end if
+return nil
+/* Função BDeleta - Deleção */
+user function BDeleta(cAlias,nReg,nOpc)
+    Local nOpcao := 0
+    nOpcao := AxDeleta(cAlias,nReg,nOpc)
+        if nOpcap == 1
+            MsgInfo("Exclusão Cancelada!")
+        else
+            MsgAlert("Exclusão efetuada com sucesso!")
+        end if
+return nil
