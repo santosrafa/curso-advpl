@@ -1,6 +1,8 @@
 #INCLUDE 'protheus.ch'
 #INCLUDE 'parmtype.ch'
 
+/* RecLock: Utilizado para fazer alteração no campo da tabela */
+
 user function BANCO004()
 
     Local aArea := SB1->(GetArea())
