@@ -37,7 +37,7 @@ user function BANCO005()
 	//Caso ocorra algum erro
 		If lMSErroAuto
 			Alert("Ocorreram erros durante a operação!")
-			MostraErro()
+			MostraErro()														//É uma funcao padrao do advpl
 			
 			DisarmTransaction()
 		Else
@@ -46,6 +46,5 @@ user function BANCO005()
 		End Transaction
 		
 		RestArea(aArea)
-	
 	
 return
